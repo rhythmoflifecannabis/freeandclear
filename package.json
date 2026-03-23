@@ -1,0 +1,11 @@
+{
+  "name": "clearpath-finance",
+  "version": "1.0.0",
+  "description": "ClearPath Personal Finance OS",
+  "dependencies": {
+    "plaid": "^26.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
